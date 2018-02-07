@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\Users\Schizophrenia\Desktop\jeans_the_great_2018\_______java_eclipse\jvm" version="1.8.0_161">
+<bootpath>
+<entry path="C:\Users\Schizophrenia\Desktop\jeans_the_great_2018\_______java_eclipse\jvm\lib\resources.jar"/>
+<entry path="C:\Users\Schizophrenia\Desktop\jeans_the_great_2018\_______java_eclipse\jvm\lib\rt.jar"/>
+<entry path="C:\Users\Schizophrenia\Desktop\jeans_the_great_2018\_______java_eclipse\jvm\lib\sunrsasign.jar"/>
+<entry path="C:\Users\Schizophrenia\Desktop\jeans_the_great_2018\_______java_eclipse\jvm\lib\jsse.jar"/>
+<entry path="C:\Users\Schizophrenia\Desktop\jeans_the_great_2018\_______java_eclipse\jvm\lib\jce.jar"/>
+<entry path="C:\Users\Schizophrenia\Desktop\jeans_the_great_2018\_______java_eclipse\jvm\lib\charsets.jar"/>
+<entry path="C:\Users\Schizophrenia\Desktop\jeans_the_great_2018\_______java_eclipse\jvm\lib\jfr.jar"/>
+<entry path="C:\Users\Schizophrenia\Desktop\jeans_the_great_2018\_______java_eclipse\jvm\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Users\Schizophrenia\Desktop\jeans_the_great_2018\_______java_eclipse\jvm\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Users\Schizophrenia\Desktop\jeans_the_great_2018\_______java_eclipse\jvm\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
